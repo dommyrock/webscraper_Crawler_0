@@ -1,0 +1,6 @@
+E:\Programming\GithubRepo\webScraper-Crawler\Newglee\Test\bin\Debug\Test.exe.config
+E:\Programming\GithubRepo\webScraper-Crawler\Newglee\Test\bin\Debug\Test.exe
+E:\Programming\GithubRepo\webScraper-Crawler\Newglee\Test\bin\Debug\Test.pdb
+E:\Programming\GithubRepo\webScraper-Crawler\Newglee\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Programming\GithubRepo\webScraper-Crawler\Newglee\Test\obj\Debug\Test.exe
+E:\Programming\GithubRepo\webScraper-Crawler\Newglee\Test\obj\Debug\Test.pdb
